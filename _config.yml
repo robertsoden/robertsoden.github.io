@@ -18,8 +18,8 @@ email: robert.soden@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://robertsoden.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: robertsoden
-github_username:  rsoden
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
