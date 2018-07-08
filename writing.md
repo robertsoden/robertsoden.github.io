@@ -33,6 +33,8 @@
 - Soden, R., Budhathoki, N., Palen, L. (2014). Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu. In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
 ### Workshop Papers & Non-Archival Conference Presentations
+- Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at Natural Hazards Workshop. Boulder, CO.
+
 - Soden, R. (2018). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. In _Companion of the 2018 ACM Conference on Conference on Human Factors in Computing Systems (CHI Doctoral Colloquium)._ ACM. _Forthcoming._
 
 - Soden, R., Lord, A. (2017). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2017 Meeting of the Society for Social Studies of Science (4S)._ Boston, MA.
@@ -77,6 +79,8 @@
 - Soden, R. (2011). Crowdsourced Mapping in the 2010 Haiti Earthquake Response. Presented at _2011 Global Platform for Disaster Risk Reduction._ Geneva, CH. 
 
 ### Major Professional Publications
+- Soden, R. (2017). _Natural Hazard Data: A Practical Guide._ Asian Development Bank Publications.
+
 - Haklay, M. E., Antoniou, V., Basiouka, S., Soden, R., & Mooney, P. (2014). _Crowdsourced Geographic Information Use in Government._ World Bank Publications.
 
 - Crowley, J., York, D., Soden, R., & Deparday, V. (2014). _Open Data for Resilience Initiative Field Guide._ World Bank Publications.
