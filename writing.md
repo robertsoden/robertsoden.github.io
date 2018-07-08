@@ -62,6 +62,8 @@
 - Soden, R., Prager, D. (2005). Broken Promises: Environmental Rights Regimes as Human Rights Guarantees in Latin America and Sub-Saharan Africa. Presented at _2005 International Studies Conference (ISA)._ Honolulu, HI.
 
 ### Invited Talks & Guest Lectures
+- Soden, R. (2018). The Social Life of Disaster Data. Presented at _2018 Understanding Risk Forum._ Mexico City, Mexico.
+
 - Soden, R., Lallemant, D. (2017). Crowdsourcing Damage Assessment to Improve Response and Recovery Following Natural Disasters. Presented at _Stanford HCI Lunch._ Stanford, CA.
 
 - Soden, R. (2016). There’s No Such Thing as Raw Crisis Data. At AAS Workshop on Ethics of Location-Based Data in Crisis Situations. Presente at _American Association for the Advancement of Science._ Washington, D.C.
