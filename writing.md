@@ -9,7 +9,7 @@
 - Soden, R. and Palen, L. (2018). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
 
 ### Journal Articles
-- Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters. _International Journal of Human Computer Interaction._ Taylor and Francis. _Forthcoming._
+- Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters. _International Journal of Human Computer Interaction._ Taylor and Francis. 
 
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal. _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
