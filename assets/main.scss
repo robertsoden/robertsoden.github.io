@@ -1,0 +1,87 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.header-left {
+  float:left;
+}
+
+.header-left a:hover {
+ text-decoration:none; 
+}
+
+
+.header-right {
+  margin:10px 15px 10px 0px;
+  padding:0px;
+  float:right;
+}
+
+.site-title {
+  margin:40px 0px 0px 0px;
+  font-size:52px;
+}
+
+.site-nav {
+  margin:110px 0px 0px -290px;
+  font-weight:bold;
+}
+
+h1.post-title {
+  display:none;
+}
+
+.page-content {
+  padding:0px;
+}
+
+#home p {
+  font-size:14px;
+  text-align:justify;
+}
+
+#home .main {
+  float:left;
+  width:67%;
+  padding:15px 10px 0px 0px;
+}
+
+#home .news {
+  float:right;
+  width:31%;
+  padding:15px 0px 0px 0px;
+} 
+
+#home h2 {
+  font-size:15px;
+  font-weight:bold;
+}
+
+
+#home .news h2 {
+  width:100%;
+  text-align:center;
+}
+
+
+#home li {
+  list-style-type:none;
+  margin-left:0px;
+}
+
+#home .news li {
+  font-size:13px;
+  margin-bottom:20px;
+} 
+
+.post-content h3 {
+  font-size:16px;
+  font-weight:bold;
+}
+
+.post-content p {
+  font-size:14px;
+}
+
