@@ -14,6 +14,11 @@
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
+- Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). _Forthcoming._
+
+- Soden R., Palen, L. (2018). Informating Crisis: Expanding Critical Perspectives in Crisis Informatics. Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). _Forthcoming._
+
+
 - Dailey, D., Soden, R., Lalone, N. (2018).  [Crisis Informatics for Everyday Analysts: A Design Fiction Approach to Social Media Best Practices.](https://dl.acm.org/citation.cfm?id=3149404) In _Proceedings of the 2018 International Conference on Supporting Group Work (GROUP)._ ACM.
 
 - Soden, R., Sprain, L., Palen, L., (2017). [Thin Grey Lines: Confrontations With Risk on Colorado's Front Range.](https://www.researchgate.net/profile/Leah_Sprain/publication/316652868_Thin_Grey_Lines_Confrontations_With_Risk_on_Colorado%27s_Front_Range/links/5a219c584585155dd41aa9b2/Thin-Grey-Lines-Confrontations-With-Risk-on-Colorados-Front-Range.pdf) In Proceedings of the _2017 CHI Conference on Human Factors in Computing Systems (pp. 2042-2053)._ ACM. Best Paper Honorable Mention. (25% acceptance rate).
