@@ -38,11 +38,13 @@
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
 ### Workshop Papers & Non-Archival Conference Presentations
+- Soden, R., Lord, A. (2017). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2018 Meeting of the Society for Social Studies of Science (4S)._ Sydney, AU.
+
 - Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at Natural Hazards Workshop. Boulder, CO.
 
 - Soden, R. (2018). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. In _Companion of the 2018 ACM Conference on Conference on Human Factors in Computing Systems (CHI Doctoral Colloquium)._ ACM. _Forthcoming._
 
-- Soden, R., Lord, A. (2017). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2017 Meeting of the Society for Social Studies of Science (4S)._ Boston, MA.
+- Soden, R., Lord, A. (2017). Narrating Disaster, Contesting Reconstruction: Design Notes on Practices of Damage Assessment in the Wake of the 2015 Nepal Earthquake. Presented at _2017 Meeting of the Society for Social Studies of Science (4S)._ Boston, MA.
 
 - Lord, A., Soden, R. (2017). Infrastructuring Humanitarian Ignorance in Nepal’s Post-Disaster Taskscape. Presented at _2017 Conference on the Changing Political Economy of Risk and Ignorance (CPERI)._ Boston, MA.
 
