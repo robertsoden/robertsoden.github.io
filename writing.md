@@ -38,7 +38,9 @@
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
 ### Workshop Papers & Non-Archival Conference Presentations
-- Soden, R., Lord, A. (2017). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2018 Meeting of the Society for Social Studies of Science (4S)._ Sydney, AU.
+- Soden, R. (2018). Toward Disasters as Matters of Care. Presented at _Sociotechnical Systems of Care Workshop_ at CSCW 2018. Jersey City, NJ.
+
+- Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2018 Meeting of the Society for Social Studies of Science (4S)._ Sydney, AU.
 
 - Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at Natural Hazards Workshop. Boulder, CO.
 
