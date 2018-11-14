@@ -16,7 +16,7 @@
 ### Archival, Peer-Reviewed Conference Papers
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
 
-- Soden R., Palen, L. (2018). <a href="http://robertsoden.io/files/soden-palen-informating-crisis.pdf"><Informating Crisis: Expanding Critical Perspectives in Crisis Informatics.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 
+- Soden R., Palen, L. (2018). <a href="http://robertsoden.io/files/soden-palen-informating-crisis.pdf">Informating Crisis: Expanding Critical Perspectives in Crisis Informatics.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 
 
 - Dailey, D., Soden, R., Lalone, N. (2018).  [Crisis Informatics for Everyday Analysts: A Design Fiction Approach to Social Media Best Practices.](https://dl.acm.org/citation.cfm?id=3149404) In _Proceedings of the 2018 International Conference on Supporting Group Work (GROUP)._ ACM.
 
