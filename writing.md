@@ -14,7 +14,7 @@
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
-- Soden, R., Kauffman, N. (2019). Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area.</a> In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems  _Conditionally Accepted_. Forthcoming.
+- Soden, R., Kauffman, N. (2019). Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area. In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems  _Conditionally Accepted_. Forthcoming.
 
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
 
