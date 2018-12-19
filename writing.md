@@ -6,7 +6,7 @@
 
 
 ### Book Chapters
-- Soden, R. and Palen, L. (2018). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
+- Soden, R. and Palen, L. (2019). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
 
 ### Journal Articles
 - Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). [The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters.](https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427828?casa_token=q1DyUwbW9EUAAAAA:uGAxA6RYJtk6KH9jNkJ0SUEkn9QLi_yvg2MwARH2J1J1Zr3o6EA0dV_6U2Edt_cLZEFgbvMurMW86Q) _International Journal of Human Computer Interaction._ Taylor and Francis. 
@@ -14,6 +14,8 @@
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
+- Soden, R., Kauffman, N. (2019). Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area.</a> In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems  _Conditionally Accepted_. Forthcoming.
+
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
 
 - Soden R., Palen, L. (2018). <a href="http://robertsoden.io/files/soden-palen-informating-crisis.pdf">Informating Crisis: Expanding Critical Perspectives in Crisis Informatics.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 
@@ -36,7 +38,12 @@
 
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
+### Peer Reviewed Workshops Organized 
+- Soden, R., Skirpan, M., Fiesler, C., Ashktorab, Z., Baumer, E., Blythe, M., Jones, J. (2019). <a href="https://chi4evil.files.wordpress.com/2018/12/workshop_chi19_chi4evil.pdf">CHI4Evil: Creative Speculation On the Negative Impacts of HCI Research</a>. CHI2019.
+
 ### Workshop Papers & Non-Archival Conference Presentations
+- Soden, R. (2019). Modes of Uncertainty. Presented at _The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts_  at the 2019 Meeting of the American Meteorological Society. Phoenix, AZ. 
+
 - Soden, R. (2018). Toward Disasters as Matters of Care. Presented at _Sociotechnical Systems of Care Workshop_ at CSCW 2018. Jersey City, NJ.
 
 - Soden, R., Lord, A. (2018). Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal. Presented at _2018 Meeting of the Society for Social Studies of Science (4S)._ Sydney, AU.
