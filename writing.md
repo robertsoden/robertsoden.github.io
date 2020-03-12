@@ -6,7 +6,7 @@
 
 
 ### Book Chapters
-- Soden, R. and Palen, L. (2019). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
+- Soden, R. and Palen, L. (2020). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
 
 ### Journal Articles
 - Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). [The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters.](https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427828?casa_token=q1DyUwbW9EUAAAAA:uGAxA6RYJtk6KH9jNkJ0SUEkn9QLi_yvg2MwARH2J1J1Zr3o6EA0dV_6U2Edt_cLZEFgbvMurMW86Q) _International Journal of Human Computer Interaction._ Taylor and Francis. 
@@ -14,6 +14,8 @@
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
+- Wagenaar, D., Curran, A., Balbi, M., Bhardwaj, A., Soden, R., Hartato, E, Sarica, G.M., Ruangpan, L., Molinario, G., Lallemant, D. (2020). Invited perspectives: How machine learning will change flood risk and impact assessment. _Forthcoming_.
+
 - Soden, R., Kauffman, N. (2019). <a href="http://robertsoden.io/files/soden-kauffman-infrastructuring-imaginary-cr.pdf">Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area.</a> In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems._
 
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
@@ -39,9 +41,15 @@
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
 ### Peer Reviewed Workshops Organized 
+- Soden, R., Ribes, D., Jack, M., Sutherland, W., Khovanskaya, V., Avle, S., Sengers, P. and Bødker, S., (2019). <a href="https://cscwhistory.com/">Fostering Historical Research in CSCW & HCI</a>. CSCW2019. Austin, TX.
+
 - Soden, R., Skirpan, M., Fiesler, C., Ashktorab, Z., Baumer, E., Blythe, M., Jones, J. (2019). <a href="https://chi4evil.files.wordpress.com/2018/12/workshop_chi19_chi4evil.pdf">CHI4Evil: Creative Speculation On the Negative Impacts of HCI Research</a>. CHI2019.
 
 ### Workshop Papers & Non-Archival Conference Presentations
+- Soden, R. Wagenaar, D., Luo, D. and Tjieesen, A. (2019). Taking Ethics, Fairness, and Bias Seriously in Machine Learning for Disaster Risk Management. Presented at NeurIPS 2019 Workshop on Machine Learning for International Development (ML4D). Vancouver, BC.
+
+- Soden, R.  (2019). Modes of Uncertainty: Negotiating Flood Risk Between Engineers, Bureaucrats, and Publics. Presented at Society for Social Studies of Science (4S). New Orleans, LA.
+
 - Soden, R. (2019). Modes of Uncertainty. Presented at _The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts_  at the 2019 Meeting of the American Meteorological Society. Phoenix, AZ. 
 
 - Soden, R. (2018). Toward Disasters as Matters of Care. Presented at _Sociotechnical Systems of Care Workshop_ at CSCW 2018. Jersey City, NJ.
@@ -77,6 +85,21 @@
 - Soden, R., Prager, D. (2005). Broken Promises: Environmental Rights Regimes as Human Rights Guarantees in Latin America and Sub-Saharan Africa. Presented at _2005 International Studies Conference (ISA)._ Honolulu, HI.
 
 ### Invited Talks & Guest Lectures
+
+- Soden, R. (2019). Ethics and Biases in Machine Learning for Disaster Risk Management. Presented at _World Bank Global Facility for Disaster Reduction and Recovery (GFDRR)._ Washington, DC.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _University of Toronto, Department of Computer Science._ Toronto, ON.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _Syracuse University, College of Information Science._ Syracuse, NY.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _Drexel University, College of Computing and Informatics._ Philadelphia, PA.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _University of Washington, Department of Human Centered Design & Engineering._ Seattle, WA.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _University of Colorado, Department of Information Science._ Boulder, CO.
+
+- Soden, R. (2019). Crisis Informatics in the Anthropocene: Disasters as Matters of Care & Concern. Presented at _AINow_. New York, NY.
+
 - Soden, R. (2018). Rethinking Post-Disaster Damage Assessment: Lessons from Critical Data Studies. Presented at _Earth Observatory of Singapore_. National Technical University of Singapore (NTU).
 
 - Soden, R. (2018). The Social Life of Disaster Data. Presented at _2018 Understanding Risk Forum._ Mexico City, Mexico.
@@ -98,6 +121,8 @@
 - Soden, R. (2011). Crowdsourced Mapping in the 2010 Haiti Earthquake Response. Presented at _2011 Global Platform for Disaster Risk Reduction._ Geneva, CH. 
 
 ### Major Professional Publications
+- Deparday, V., Gevaert, C., Giuseppe Molinario, G., Soden, R. Balog-Way, S. (2019). [_Machine learning for disaster risk management._](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf) World Bank. Washington, DC.
+
 - Soden, R. (2017). [_Natural Hazard Data: A Practical Guide._](https://www.adb.org/documents/natural-hazard-data-practical-guide) Asian Development Bank Publications.
 
 - Haklay, M. E., Antoniou, V., Basiouka, S., Soden, R., & Mooney, P. (2014). [_Crowdsourced Geographic Information Use in Government._](https://openknowledge.worldbank.org/handle/10986/20725) World Bank Publications.
