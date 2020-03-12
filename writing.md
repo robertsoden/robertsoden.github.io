@@ -9,13 +9,13 @@
 - Soden, R. and Palen, L. (2020). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar. _Forthcoming._
 
 ### Journal Articles
+- Wagenaar, D., Curran, A., Balbi, M., Bhardwaj, A., Soden, R., Hartato, E, Sarica, G.M., Ruangpan, L., Molinario, G., Lallemant, D. (2020). Invited perspectives: How machine learning will change flood risk and impact assessment. _Forthcoming_.
+
 - Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). [The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters.](https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427828?casa_token=q1DyUwbW9EUAAAAA:uGAxA6RYJtk6KH9jNkJ0SUEkn9QLi_yvg2MwARH2J1J1Zr3o6EA0dV_6U2Edt_cLZEFgbvMurMW86Q) _International Journal of Human Computer Interaction._ Taylor and Francis. 
 
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
-- Wagenaar, D., Curran, A., Balbi, M., Bhardwaj, A., Soden, R., Hartato, E, Sarica, G.M., Ruangpan, L., Molinario, G., Lallemant, D. (2020). Invited perspectives: How machine learning will change flood risk and impact assessment. _Forthcoming_.
-
 - Soden, R., Kauffman, N. (2019). <a href="http://robertsoden.io/files/soden-kauffman-infrastructuring-imaginary-cr.pdf">Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area.</a> In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems._
 
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
