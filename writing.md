@@ -46,7 +46,7 @@
 - Soden, R., Skirpan, M., Fiesler, C., Ashktorab, Z., Baumer, E., Blythe, M., Jones, J. (2019). <a href="https://chi4evil.files.wordpress.com/2018/12/workshop_chi19_chi4evil.pdf">CHI4Evil: Creative Speculation On the Negative Impacts of HCI Research</a>. CHI2019.
 
 ### Workshop Papers & Non-Archival Conference Presentations
-- Soden, R. Wagenaar, D., Luo, D. and Tjieesen, A. (2019). Taking Ethics, Fairness, and Bias Seriously in Machine Learning for Disaster Risk Management. Presented at NeurIPS 2019 Workshop on Machine Learning for International Development (ML4D). Vancouver, BC.
+- Soden, R. Wagenaar, D., Luo, D. and Tijssen, A. (2019). Taking Ethics, Fairness, and Bias Seriously in Machine Learning for Disaster Risk Management. Presented at NeurIPS 2019 Workshop on Machine Learning for International Development (ML4D). Vancouver, BC.
 
 - Soden, R.  (2019). Modes of Uncertainty: Negotiating Flood Risk Between Engineers, Bureaucrats, and Publics. Presented at Society for Social Studies of Science (4S). New Orleans, LA.
 
