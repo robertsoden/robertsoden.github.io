@@ -16,6 +16,8 @@
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
+- Soden, R. Hamel P, Lallemant D, Pierce J. (2020) <a href="http://robertsoden.io/files/soden-artathon-cr.pdf">The Disaster and Climate Change Artathon: Staging Art/Science Collaborations in Crisis Informatics.</a> In Proceedings of the _2020 ACM on Designing Interactive Systems (DIS) Conference 2020._  
+
 - Soden, R., Kauffman, N. (2019). <a href="http://robertsoden.io/files/soden-kauffman-infrastructuring-imaginary-cr.pdf">Infrastructuring the Imaginary: How Sea-level Rise Comes to Matter in The San Francisco Bay Area.</a> In Proceedings of the _2019 CHI Conference on Human Factors in Computing Systems._
 
 - Soden, R., Lord, A. (2018). <a href="http://robertsoden.io/files/soden-lord-nepal-earthquake-mapping-repair.pdf">Mapping Silences, Reconfiguring Loss: Practices of Damage Assessment & Narratives of Repair in Post-Earthquake Nepal.</a> Proceedings of the 21st ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). ACM. _Best Paper Honorable Mention._
@@ -41,14 +43,20 @@
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
 ### Peer Reviewed Workshops Organized 
+- Soden, R., Devendorf, L., Wong, R., Chilton, L., Light, A., Akama, Y. (2020) <a href="https://hci-uncertainty.github.io/">Embracing Uncertainty in HCI.</a> CHI 2020. 
+
 - Soden, R., Ribes, D., Jack, M., Sutherland, W., Khovanskaya, V., Avle, S., Sengers, P. and Bødker, S., (2019). <a href="https://cscwhistory.com/">Fostering Historical Research in CSCW & HCI</a>. CSCW2019. Austin, TX.
 
 - Soden, R., Skirpan, M., Fiesler, C., Ashktorab, Z., Baumer, E., Blythe, M., Jones, J. (2019). <a href="https://chi4evil.files.wordpress.com/2018/12/workshop_chi19_chi4evil.pdf">CHI4Evil: Creative Speculation On the Negative Impacts of HCI Research</a>. CHI2019.
 
-### Workshop Papers & Non-Archival Conference Presentations
+### Workshop Papers, Lightly Reviewed Writing, & Non-Archival Conference Presentations
+- Soden, R. (2020) Crisis Informatics and Mutual Aid during the Coronavirus Pandemic: A Research Agenda. Posted on Social Science Research Council (SSRC) Insights from the Social Sciences. Available at: https://items.ssrc.org/covid-19-and-the-social-sciences/disaster-studies/crisis-informatics-and-mutual-aid-during-the-coronavirus-pandemic-a-research-agenda/  
+
 - Soden, R. Wagenaar, D., Luo, D. and Tijssen, A. (2019). Taking Ethics, Fairness, and Bias Seriously in Machine Learning for Disaster Risk Management. Presented at NeurIPS 2019 Workshop on Machine Learning for International Development (ML4D). Vancouver, BC.
 
 - Soden, R.  (2019). Modes of Uncertainty: Negotiating Flood Risk Between Engineers, Bureaucrats, and Publics. Presented at Society for Social Studies of Science (4S). New Orleans, LA.
+
+- Soden, R. (2019) Modes of Uncertainty: Rethinking Flood Risk in Colorado. Posted on Social Science Research Council (SSRC) Insights from the Social Sciences. Available at: https://items.ssrc.org/chancing-the-storm/modes-of-uncertainty-rethinking-flood-risk-in-colorado/ 
 
 - Soden, R. (2019). Modes of Uncertainty. Presented at _The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts_  at the 2019 Meeting of the American Meteorological Society. Phoenix, AZ. 
 
@@ -85,6 +93,7 @@
 - Soden, R., Prager, D. (2005). Broken Promises: Environmental Rights Regimes as Human Rights Guarantees in Latin America and Sub-Saharan Africa. Presented at _2005 International Studies Conference (ISA)._ Honolulu, HI.
 
 ### Invited Talks & Guest Lectures
+- Soden, R. (2020). The Emergent Mutual Aid Response to COVID-19. Presented at Columbia University COVID Research Series.
 
 - Soden, R. (2019). Ethics and Biases in Machine Learning for Disaster Risk Management. Presented at _World Bank Global Facility for Disaster Reduction and Recovery (GFDRR)._ Washington, DC.
 
