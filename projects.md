@@ -4,15 +4,43 @@
    permalink: /projects/
 ---
 
-### Anti-Patterns in the Design of Humanitarian Technology
-Information and communication technologies (ICTs) are playing an increasingly important role in how we make sense of, and respond to, the threats posed by natural hazards and the impacts of climate change. The design of these ICTs intervene in the politics of natural hazards, at times reproducing problematic narratives of these phenomena that hazards research has in the past sought to undermine. Drawing on the concept of _design patterns_ from software development and user experience, this projects seeks to identify recurring patterns in the design and implementation of ICTs, _anti-patterns_, that support these problematic narratives. Once identified and communicated, anti-patterns can serve as cautionary tales and things to avoid, improving the design and implementation of ICTS used in disasters.
+## Student Research Oppportunities - Fall 2020 
+There are a number of open opportunities for undergraduate, master's, and PhD students at the University of Toronto to get involved with research in the Fall 2020 semester. Please see below for details and email me at soden at cs dot toronto dot edu to discuss.
 
-### Chiang Mai Urban Flooding Field Lab
-I am parterning with my colleagues at [Co-Risk Labs](http://co-risk.org) and the [Humanitarian OpenStreetMap Team](http://hotosm.org) to organize and facilitate a month-long event that will bring together university students and government in Chiang Mai, Thailand with technologists, scientists, and flood risk experts from all over the world to explore the links between civic engagement, informatics, and urban flooding in the 21st century. The first of its kind event, with funding from the World Bank's Disaster Risk Financing Initiative and the UK Department for International Development, is one part extended hackathon and one part art and technology festival and launch a longer term research collaboration amongst local and international organizing partners. It will take place in June 2019. More information at: [http://co-risk.org/chiang-mai-urban-flooding-field-lab/](http://co-risk.org/chiang-mai-urban-flooding-field-lab/)
+### Speculative Design and Climate Change ### 
+Participate in a systematic review of speculative design projects related to climate change adaptation or disaster mitigation. Assess questions such as: who is doing the speculating? What kinds of ideas are proposed? What perspectives are privileged? What is accomplished? Contribute to the use of speculative design to making communities safer.
 
-### Rethinking Post-Disaster Damage Assessment
-In the aftermath of major disasters, governments, aid agencies, and affected communities attempt to understand the scope and magnitude of the event. Incorporating tools that range from visual inspection to smartphone applications to machine laerning classification of drone imagery, these damage assessments help to respond to the crisis and guide long-term reconstruction. My work brings a critical eye to these assessments to understand the politics of how we measure disaster impacts, and how they shape post-disaster recovery. Working with partners from [Cornell University](http://anthropology.cornell.edu/austin-lord), the [Stanford Urban Resilience Initiative](http://urbanresilience.stanford.edu/), the [Earth Observatory of Singapore](https://www.earthobservatory.sg/), and the World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/), my research critically evaluates contemporary practices of damage assessment and suggests alternative methods.
+*Suitability -* Undergrad/Master’s/PhD
 
-### Disaster and Climate Risk Artathon
-In April 2017, we convened over 25 accomplished artists and scientists to collaborate on artistic explorations of disasters and climate change impacts in the San Francisco Bay Area. Seven teams worked over the course of two days to put themes of irony, affect, hope, balance, and voice in conversation with scientific representations of disaster and climate risk. The results, ranging from finished pieces to proposals to works in progress, were displayed at [ELL Gallery](https://www.ell-sf.com/) in May 2017 and on Stanford Campus between September and December 2017. More information can be found at: [http://co-risk.org/artathon/](http://co-risk.org/artathon/). We hope to organize future artathons in the future to learn more about how to design cross-disciplinary encounters around the wicked problems of disaster and climate risk.
+*Research Methods -* literature review, text analysis
+
+### Public Safety During Tropical Storms ###
+Participate in an ongoing research project to help the US National Hurricane Center reimagine how it communicates hurricane risk to the public. Use prototyping, programming, and user evaluation approaches to develop and test new tools and approaches for conveying risk and safety information to multiple public audiences.
+
+*Suitability -*  Undergrad/Master’s/PhD
+
+*Research Methods -* Prototyping, software development (light), human-centered design
+
+### Value Conflicts in Humanitarian OpenStreetMap ###
+The OpenStreetMap (OSM) platform is the largest repository of open geographic data in the world and is maintained by thousands of individual contributors, many of whom are volunteers. It has become a core element of the information infrastructure used by international humanitarian responders as well as a major area for investment by large technology companies like Apple and Facebook. This project will analyze, through qualitative and/or quantitative methods, some of the conflicts that have arisen in the community as a result of the rapid growth of the platform.
+
+*Suitability -*  Undergrad/Master’s/PhD
+
+*Research Methods -*  Dependent upon student interest
+
+### Historical Research in Open Source Earthquake Risk Modeling Software ### 
+Support a research project that is assessing the history of HAZUS, an open source earthquake risk analysis tool. Conduct interviews, analyze the codebase. Surface key design decisions, paths not taken, and alternative approaches. Contribute to the understanding of earthquake risk modeling and the role of historical approaches in human-computer interaction research and design.
+
+*Suitability -*   Master’s/PhD
+
+*Research Methods -*  Interviewing, text analysis, software analysis
+
+### Responsible Artificial Intelligence for Disaster Risk Management ### 
+The use of artificial intelligence, and in particular machine learning when compared with computer vision technologies to rapidly assess large amounts of satellite imagery, has become an area of exploration for understanding the risks of disaster and evaluating their impacts. At the same time, AI has come under significant criticism in other domains such as search, facial recognition, and criminal justice for systematically reproducing social inequalities. This project will support ongoing research with experts in machine learning and disaster risk management into the benefits, potential harms, and best practices for the use of AI in disasters.
+
+*Suitability -*  Undergrad/Master’s/PhD
+
+*Research Methods -* Interviewing, text analysis, literature review
+
+
 
