@@ -4,15 +4,9 @@
    permalink: /projects/
 ---
 
-## Student Research Oppportunities - Fall 2020 
-There are a number of open opportunities for undergraduate, master's, and PhD students at the University of Toronto to get involved with research in the Fall 2020 semester. Please see below for details and email me at soden at cs dot toronto dot edu to discuss.
+## Student Research Oppportunities - Fall 2021
+There are a number of open opportunities for undergraduate, master's, and PhD students at the University of Toronto to get involved with research in the Fall 2021 semester. Please see below for details and email me at soden at cs dot toronto dot edu to discuss.
 
-### Speculative Design and Climate Change ### 
-Participate in a systematic review of speculative design projects related to climate change adaptation or disaster mitigation. Assess questions such as: who is doing the speculating? What kinds of ideas are proposed? What perspectives are privileged? What is accomplished? Contribute to the use of speculative design to making communities safer.
-
-*Suitability -* Undergrad/Master’s/PhD
-
-*Research Methods -* literature review, text analysis
 
 ### Public Safety During Tropical Storms ###
 Participate in an ongoing research project to help the US National Hurricane Center reimagine how it communicates hurricane risk to the public. Use prototyping, programming, and user evaluation approaches to develop and test new tools and approaches for conveying risk and safety information to multiple public audiences.
