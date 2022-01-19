@@ -3,7 +3,7 @@
    title: Prospective Students
    permalink: /students/
 ---
-<h3>I am currently recruiting Computer Science Master's and PhD students for Fall 2021.</h3>
+<h3>I am currently recruiting Computer Science Master's and PhD students</h3>
 
 <p>If you are interested in working with me, please <a href="https://web.cs.toronto.edu/graduate/programs">apply to one of our graduate programs</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>.</p> 
 

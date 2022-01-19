@@ -4,7 +4,7 @@
    permalink: /projects/
 ---
 
-## Student Research Oppportunities - Fall 2021
+## Current Student Research Oppportunities 
 There are a number of open opportunities for undergraduate, master's, and PhD students at the University of Toronto to get involved with research in the Fall 2021 semester. Please see below for details and email me at soden at cs dot toronto dot edu to discuss.
 
 
