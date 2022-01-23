@@ -59,7 +59,7 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
-### Peer Reviewed Industry Reports
+### Industry Reports
 - Soden, R., Miles, S., Bannister, S., Bicksler, R., Leiva, A. (2022). Optimizing Tropical Cyclone Information: An NOAA Hurricane Website User Experience Study from a Public Perspective. National Oceanic and Atmospheric Administration (NOAA) – Office of Oceanic and Atmospheric Research.
 
 - Deparday, V., Gevaert, C., Giuseppe Molinario, G., Soden, R. Balog-Way, S. (2019). [_Machine learning for disaster risk management._](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf) World Bank. Washington, DC.
