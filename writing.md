@@ -7,12 +7,16 @@
 This page is frequently out of date. Please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=1vePPCkAAAAJ&hl=en) for a more complete list of publications.
 
 ### Book Chapters
-- Soden, R. and Palen, L. (2021). The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal.  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar.  
+- Soden, R. and Palen, L. (2021). [The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal](https://www.elgaronline.com/view/edcoll/9781786437242/9781786437242.00025.xml).  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar.  
 
 ### Journal Articles
-- Bhattacharjee, G., Soden, R., Barns, K., Loos, S., Lallemant, D. (2021). Factors affecting earthquake responders building damage information needs and use. Earthquake Spectra. Earthquake Engineering Research Institute.  
+- Gevaert, C.M., Carman, M., Rosman, B., Georgiadou, Y. and Soden, R., 2021. [Fairness and accountability of AI in disaster risk management: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S2666389921002257). Patterns, 2(11), p.100363.
 
-- Wagenaar, D., Curran, A., Balbi, M., Bhardwaj, A., Soden, R., Hartato, E, Sarica, G.M., Ruangpan, L., Molinario, G., Lallemant, D. (2020). Invited perspectives: How machine learning will change flood risk and impact assessment.  
+- Bhattacharjee, G., Soden, R., Barns, K., Loos, S., Lallemant, D. (2021). [Factors affecting earthquake responders building damage information needs and use](https://journals.sagepub.com/doi/abs/10.1177/87552930211030297). Earthquake Spectra. Earthquake Engineering Research Institute.  
+
+- Krishnan, S., Soden, R., Aguihon, B., Liu, R. and Khatiwada, P., (2021). [Cross-country use of participatory research methods in practice to enhance inclusive decision-making](https://www.emerald.com/insight/content/doi/10.1108/DPM-03-2021-0097/full/html). Disaster Prevention and Management: An International Journal.
+
+- Wagenaar, D., Curran, A., Balbi, M., Bhardwaj, A., Soden, R., Hartato, E., Mestav Sarica, G., Ruangpan, L., Molinario, G. and Lallemant, D., 2020. [Invited perspectives: How machine learning will change flood risk and impact assessment. Natural Hazards and Earth System Sciences](https://nhess.copernicus.org/articles/20/1149/2020/), 20(4), pp.1149-1161.
 
 - Anderson, J., Soden, R., Keegan, B., Palen, L., Anderson, K. (2018). [The Crowd is the Territory: Assessing Quality in Peer-Produced Spatial Data During Disasters.](https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427828?casa_token=q1DyUwbW9EUAAAAA:uGAxA6RYJtk6KH9jNkJ0SUEkn9QLi_yvg2MwARH2J1J1Zr3o6EA0dV_6U2Edt_cLZEFgbvMurMW86Q) _International Journal of Human Computer Interaction._ Taylor and Francis. 
 
@@ -23,15 +27,14 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 
 - Moitra, A., Soden, R., Kalirai, M., Wagenaar, D., Ahmed, I. (2022). AI and Disaster Risk: A Practitioner Perspective. In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  Forthcoming.
 
-- Soden, R., Ribes, D., Avle, S., Sutherland, W. (2021). Time for Historicism in CSCW: An Invitation. In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). _Best Paper Award._
+- Soden, R., Ribes, D., Avle, S., Sutherland, W. (2021). [Time for Historicism in CSCW: An Invitation](https://dl.acm.org/doi/abs/10.1145/3479603). In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW). _Best Paper Award._
 
-- Soden, R., Owen, E. (2021). Dilemmas in Mutual Aid: Lessons for Crisis Informatics from an Emergent Community Response to the Pandemic. In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  
+- Soden, R., Owen, E. (2021). [Dilemmas in Mutual Aid: Lessons for Crisis Informatics from an Emergent Community Response to the Pandemic](https://dl.acm.org/doi/abs/10.1145/3479862). In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  
 
-- Soden, R., Pathak, P., Dogget, O. (2021). What We Speculate About When We Speculate About Sustainable HCI. In Proceedings of the ACM Conference on Computing and Sustainable Societies (COMPASS).  
+- Soden, R., Pathak, P., Dogget, O. (2021). [What We Speculate About When We Speculate About Sustainable HCI](What We Speculate About When We Speculate About Sustainable HCI). In Proceedings of the ACM Conference on Computing and Sustainable Societies (COMPASS).  
 
-- Soden, R., Lallemant, D, Hamel, P., Barns, K. (2021). Becoming Interdisciplinary: Fostering Critical Engagement with Disaster Data. In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  
-
-- Soden, R. Lalone, N., Dailey, D. (2021). A Speculative Patent Application for NEXTGEN Flood Early Warning System. In Proceedings of 2021 ACM Conference on GROUP.  
+- Soden, R., Lallemant, D, Hamel, P., Barns, K. (2021). [Becoming Interdisciplinary: Fostering Critical Engagement with Disaster Data](https://dl.acm.org/doi/abs/10.1145/3449242). In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  
+- Soden, R. Lalone, N., Dailey, D. (2021). [A Speculative Patent Application for NEXTGEN Flood Early Warning System](https://dl.acm.org/doi/abs/10.1145/3463928). In Proceedings of 2021 ACM Conference on GROUP.  
 
 - Soden, R. Hamel P, Lallemant D, Pierce J. (2020) <a href="http://robertsoden.io/files/soden-artathon-cr.pdf">The Disaster and Climate Change Artathon: Staging Art/Science Collaborations in Crisis Informatics.</a> In Proceedings of the _2020 ACM on Designing Interactive Systems (DIS) Conference 2020._  
 
@@ -79,7 +82,7 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 - Soden, R., Skirpan, M., Fiesler, C., Ashktorab, Z., Baumer, E., Blythe, M., Jones, J. (2019). <a href="https://chi4evil.files.wordpress.com/2018/12/workshop_chi19_chi4evil.pdf">CHI4Evil: Creative Speculation On the Negative Impacts of HCI Research</a>. CHI2019.
 
 ### Workshop Papers, Lightly Reviewed Writing, & Non-Archival Conference Presentations
-- Soden, R., 2022. Reimagining environmental data. ACM Interactions, 29(1), pp.44-47.
+- Soden, R., 2022. <a href="https://dl.acm.org/doi/fullHtml/10.1145/3501302">Reimagining environmental data</a>. ACM Interactions, 29(1), pp.44-47.
 
 - Soden, R. (2021). Art/Science and Interdisciplinary Collaboration as Critical Technical Practice in Disaster Research. Annual Meeting of the Society for the Study of Social Science (4S).  
 
