@@ -10,6 +10,8 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 - Soden, R. and Palen, L. (2021). [The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal](https://www.elgaronline.com/view/edcoll/9781786437242/9781786437242.00025.xml).  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar.  
 
 ### Journal Articles
+- Soden, R., Devendorf, L., Wong, R., Akama, Y., Light, A. (2022). Modes of Uncertainty in HCI. Foundations and Trends in HCI. (Forthcoming).
+
 - Gevaert, C.M., Carman, M., Rosman, B., Georgiadou, Y. and Soden, R., 2021. [Fairness and accountability of AI in disaster risk management: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S2666389921002257). Patterns, 2(11), p.100363.
 
 - Bhattacharjee, G., Soden, R., Barns, K., Loos, S., Lallemant, D. (2021). [Factors affecting earthquake responders building damage information needs and use](https://journals.sagepub.com/doi/abs/10.1177/87552930211030297). Earthquake Spectra. Earthquake Engineering Research Institute.  
@@ -23,6 +25,10 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 - Lallemant, D., Soden, R., Rubinyi, S., Loos, S., Barns, K., Bhattacherjee, G. (2017). [Post-disaster damage assessments as catalysts for recovery: A look at the assessements conducted in the wake of the 2015 earthquake in Nepal.](http://www.earthquakespectra.org/doi/abs/10.1193/120316EQS222M?code=eeri-site) _Earthquake Spectra._ Earthquake Engineering Research Institute.
 
 ### Archival, Peer-Reviewed Conference Papers
+- Mahmud, Z., Chauhan, A., Sarkar, D., Soden, R. (2022). Revisiting Engagement in Humanitarian Mapping: An Updated Analysis of Contributor Retention in OpenStreetMap. In Extended Abstracts of ACM CHI. (Forthcoming).
+
+- Veselovsky, V., Sarkar, D., Anderson, J., Soden, R. (2022) An Automated Approach to Identifying Corporate Editing. In ICWCM (Forthcoming)
+
 - Soden, R., Chilton, L., Miles, S., Bicksler, R., Villanueva, K,. Bica, M. (2022). Insights and Opportunities for HCI Research into Hurricane Risk Communication. In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI). Forthcoming.
 
 - Moitra, A., Soden, R., Kalirai, M., Wagenaar, D., Ahmed, I. (2022). AI and Disaster Risk: A Practitioner Perspective. In Proceedings of the ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW).  Forthcoming.
@@ -62,7 +68,9 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 
 - Soden, R., Budhathoki, N., Palen, L. (2014). [Resilience and Crisis Informatics: Lessons Learned from Open Cities Kathmandu.](https://pdfs.semanticscholar.org/95c0/40abcf3a922c59e160cbda300aee082087ef.pdf) In _Proceedings of the Conference on Information Systems for Crisis Response and Management (ISCRAM)._ Best Student Paper Award.
 
-### Industry Reports
+### Peer Reviewed Research Reports
+- Sury, J., Qin, Y., Soden, R., Quijano, G. and Castillo, Y.D., 2021. Co-Designing a Participatory Community Mapping Method for Informal Sheltering in Puerto Rico. Natural Hazards Center. 
+
 - Soden, R., Miles, S., Bannister, S., Bicksler, R., Leiva, A. (2022). Optimizing Tropical Cyclone Information: An NOAA Hurricane Website User Experience Study from a Public Perspective. National Oceanic and Atmospheric Administration (NOAA) – Office of Oceanic and Atmospheric Research.
 
 - Deparday, V., Gevaert, C., Giuseppe Molinario, G., Soden, R. Balog-Way, S. (2019). [_Machine learning for disaster risk management._](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf) World Bank. Washington, DC.
@@ -75,6 +83,8 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 
 
 ### Peer Reviewed Workshops Organized 
+- Liu, J., Lin, C., Pasek, A., Soden, R., Padilla L. Rosner, D., Jackson, S. (2022). Towards a Material Ethics of Computing: Addressing the Uneven Environmental Stakes of Digital Infrastructures. CHI 2022. New Orleans, LA.
+
 - Soden, R., Devendorf, L., Wong, R., Chilton, L., Light, A., Akama, Y. (2020) <a href="https://hci-uncertainty.github.io/">Embracing Uncertainty in HCI.</a> CHI 2020. 
 
 - Soden, R., Ribes, D., Jack, M., Sutherland, W., Khovanskaya, V., Avle, S., Sengers, P. and Bødker, S., (2019). <a href="https://cscwhistory.com/">Fostering Historical Research in CSCW & HCI</a>. CSCW2019. Austin, TX.
@@ -84,10 +94,15 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 ### Workshop Papers, Lightly Reviewed Writing, & Non-Archival Conference Presentations
 - Soden, R., 2022. <a href="https://dl.acm.org/doi/fullHtml/10.1145/3501302">Reimagining environmental data</a>. ACM Interactions, 29(1), pp.44-47.
 
+- Soden, R, Wernimont, J., Knowles, S. (2022). Accounting for Care in Times of Crisis. Social Science Research Council: Items. Online at: https://items.ssrc.org/covid-19-and-the-social-sciences/disaster-studies/accounting-for-care-in-times-of-crisis/
+
+- Soden, R., Miles, S. (2022). Optimizing Tropical Cyclone Information: An NOAA Hurricane Website User Experience Study from a Public Perspective. National Hurricane Conference.  
+
+- Soden, R., Miles, S. (2021). Optimizing Tropical Cyclone Information: An NOAA Hurricane Website User Experience Study from a Public Perspective. Society for Risk Analysis (SRA) Annual Meeting.  
+
 - Soden, R. (2021). Art/Science and Interdisciplinary Collaboration as Critical Technical Practice in Disaster Research. Annual Meeting of the Society for the Study of Social Science (4S).  
 
-- Soden, R. (2021). Art/Science Collaboration as a Critical Technical Practice in
-Disaster Research. Northern European Conference on Emergency and Disaster Studies (NEEDS).
+- Soden, R. (2021). Art/Science Collaboration as a Critical Technical Practice in Disaster Research. Northern European Conference on Emergency and Disaster Studies (NEEDS).
 
 - Krishnan, S., Soden. R., Kathiwada, P.. Aguinon, B., Liu, R. (2021). Cross-country use of participatory research methods in practice to enhance inclusive decision making. Northern European Conference on Emergency and Disaster Studies (NEEDS).
 
@@ -140,6 +155,10 @@ Disaster Research. Northern European Conference on Emergency and Disaster Studie
 - Soden, R., Prager, D. (2005). Broken Promises: Environmental Rights Regimes as Human Rights Guarantees in Latin America and Sub-Saharan Africa. Presented at _2005 International Studies Conference (ISA)._ Honolulu, HI.
 
 ### Invited Talks & Guest Lectures
+- Soden, R., Lallemant, D., Kalirai, M, Liu, C., Wagenaar, D. (2022) Equity in Disaster Risk Assessment: Reviewing Current Practice to Guide Future Work. Presented at World Bank. 
+
+- Soden, R., Miles, S. (2022). Optimizing Tropical Cyclone Information: An NOAA Hurricane Website User Experience Study from a Public Perspective. Presented at the US National Hurricane Center.  
+
 - Soden, R. (2021). Responsible AI for Disaster Risk Management. Presented at 2021 Understanding Risk Asia Forum. Organized by the World Bank.
 
 - Soden, R. (2021). Responsible AI for Disaster Risk Management: : A Community of Practice Perspective. Presented at Western-ICLR Multi-hazard Risk and Resilience Workshop.
