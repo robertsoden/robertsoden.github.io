@@ -2,6 +2,7 @@
    layout: page
    title: Writing & Speaking
    permalink: /writing/
+   note: writing
 ---
 
 This page is frequently out of date. Please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=1vePPCkAAAAJ&hl=en) for a more complete list of publications.

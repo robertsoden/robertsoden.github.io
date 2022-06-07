@@ -2,6 +2,7 @@
    layout: page
    title: Prospective Students
    permalink: /students/
+   note: students
 ---
 <h3>I am currently recruiting Computer Science Master's and PhD students</h3>
 
