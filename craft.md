@@ -35,8 +35,7 @@ To address these challenges, our session aims to use speculative design practice
 
 ### To Participate
 
-If you are interested in participating in this workshop or if you have questions, please email:
-{robert.soden@utoronto.ca} {manveer.kalirai@mail.utoronto.ca}
+If you are interested in participating in this workshop or if you have questions, please email <a href="mailto:manveer.kalirai@mail.utoronto.ca">manveer.kalirai@mail.utoronto.ca</a>.
 
 
 ### Workshop Organizers
