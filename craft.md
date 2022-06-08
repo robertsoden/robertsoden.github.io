@@ -18,24 +18,25 @@ To address these challenges, our session aims to use speculative design practice
 
 | **Time** | **Activity**                              |
 |----------|-------------------------------------------|
-|          | Welcome + Opening Remarks                 |
-|          | Ice-Breakers                              |
+|  10 minutes        | Welcome + Opening Remarks                 |
+|  20 minutes        | Ice-Breakers                              |
 |          | **Experiential Futures:  Setting**        |
-|          | Collective Crisis Intelligence case study |
-|          | Participant Q&A about project             |
-|          | **Break**                                 |
+|  20 minutes        | Collective Crisis Intelligence case study |
+|  15 minutes       | Participant Q&A about project             |
+|  30 minutes        | **Break**                                 |
 |          | **Experiential Futures: Scenario**        |
-|          | Futures wheel                             |
+|  25 minutes     | Futures wheel      
+|  10 minutes        | Group reflection                          |                       |
 |          | **Experiential Futures:  Storyworld**     |
-|          | Story development                         |
-|          | Group reflection                          |
-|          | **Group Presentation**                    |
-|          | **Closing Reflections**                   |
+|  25 minutes       | Story development                         |
+|  10 minutes         | Group reflection                          |
+|  30 minutes        | **Group Presentation**                    |
+|  10 minutes       | **Closing Reflections**                   |
 
 
 ### To Participate
 
-If you are interested in participating in this workshop or if you have questions, please email <a href="mailto:manveer.kalirai@mail.utoronto.ca">manveer.kalirai@mail.utoronto.ca</a>.
+To RSVP to participate in this workshop, or if you have questions, please email <a href="mailto:manveer.kalirai@mail.utoronto.ca">manveer.kalirai@mail.utoronto.ca</a>.
 
 
 ### Workshop Organizers
