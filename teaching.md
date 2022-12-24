@@ -1,0 +1,26 @@
+---
+   layout: page
+   title: Teaching
+   permalink: /teaching/
+   note: teaching
+---
+
+### CSC 2604: Design Theory and HCI (Winter 2021 & Winter 2023)
+
+Over it’s forty year history, HCI has undergone a remarkable expansion in the research methods, technologies, and areas of social life considered germane to the field. As a foundational concept, design too has changed over this period. What constitutes good design? Who designs? To what objects can design be applied in HCI? The answers to these questions have evolved as well. In this course we will trace parts of this trajectory. In doing so we’ll improve our understanding of the history of our field and add new concepts and approaches to the toolboxes we bring to HCI research and practice. This seminar-style course for graduate students begins with early visions of computing as a form of human augmentation through current discussions around participatory design, speculation, and design justice. Participants will both improve their understanding of the field as well as their ability to conduct research through a firm grounding in how design as a practice and set of research methods has been conceived of and debated throughout the history of HCI. A final project will provide an opportunity for students to make progress in their own research and writing through engagement with the readings and ideas covered as part of class.
+
+### ENV 361: Social Media & Environmentalism (Winter 2021 & Winter 2022)
+
+Contemporary experience of environmentalism is increasingly mediated through internet technologies. The dynamics of how people engage with social media often determine how they learn about topics such as climate change, environmental policy, and the nature of protest movements. At the same time, the power of governments and corporations to conduct mass surveillance via the internet can have a chilling effect on those who express dissent over social, economic and environmental policy. The current generation of students has grown up with social media, but rarely gets the opportunity to step back and think critically about its broader consequences, especially in the face of grand societal and environmental challenges. The aim of the course is to engage students in the School of Environment in critical thinking about the impacts and ethics of social media, and the ways in which it is used to foster or stifle social change. This advanced undergraduate course examine a range of issues related to the environment and digital technology, with a broad focus on the impacts of social media on environmental thinking and policy-making. 
+
+### ENV 2002: Disasters from an Interdisciplinary Perspective (Winter 2022)
+
+Perhaps no area of human-environment relations is as complex, engaging, and challenging as that of disaster. Disasters have inspired revolutions, religious fervor, and scientific and philosophical achievement. Today, as we continue to cope with the fallout of a global pandemic and climate disasters are part of the daily news, the topic is present everywhere. Understanding the impacts of disaster, what such impacts reveal about the social and political contexts in which they occur, and how our communities can best mitigate, prepare, and recover from disaster requires a breadth of knowledge from across a range of different areas The field of disaster research attempts to provide just this. This graduate level course provides an introduction to disaster research from a multi-disciplinary perspective. Students engage with a combination of foundational texts and emerging arguments, submit weekly response essays, and participate in seminar style discussion. Key topics covered will include the social production of disaster vulnerability, human behavior during emergencies, the uses and misuse of disaster data, social media and crisis, disaster and climate justice, and research ethics in disaster settings. 
+
+### ENV 2002: Photovoltaic Imaginaries: Community Based Experiments in Sustainability Transitions (Fall 2022)
+
+This graduate course combines seminar style reading and discussion and participatory design and prototyping with a community-based organization to investigate the particular forms of culture, sociality, and governance that emerge around small-scale, community-based solar energy systems. In addition to learning about solar technologies, students will also gain practical experience with community engaged research and learn about core concepts in science and technology studies (STS) and critical design.
+
+### CSC 300: Computing and Society (Winter 2023)
+
+This undergraduate course addresses a wide range of interconnections between computers and society. In this course, students learn the basic values that drive today’s computer industry and how those often strengthen or differ from many moral values held by different communities in our world. This course introduces students to various theories from philosophy and social sciences to develop a deep understanding of the ethical tensions around the relationship between computers and society. This class is designed to help the students gain this knowledge along with strengthening their writing, debating, and designing capabilities to make them the next-generation computer scientists who are ethical, responsible, and caring.

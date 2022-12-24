@@ -1,9 +1,4 @@
----
-   layout: page
-   title: Writing & Speaking
-   permalink: /writing/
-   note: writing
----
+
 
 This page is frequently out of date. Please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=1vePPCkAAAAJ&hl=en) for a more complete list of publications.
 
@@ -11,7 +6,7 @@ This page is frequently out of date. Please refer to my [Google Scholar Profile]
 - Soden, R. and Palen, L. (2021). [The social life of disaster information: Cultivating resources for emergent information infrastructures in Nepal](https://www.elgaronline.com/view/edcoll/9781786437242/9781786437242.00025.xml).  In Eric Welch (Ed.) _Research Handbook on E-Government._ Edward Elgar.  
 
 ### Journal Articles
-- Soden, R., Devendorf, L., Wong, R., Akama, Y., Light, A. (2022). Modes of Uncertainty in HCI. Foundations and Trends in HCI. (Forthcoming).
+- Soden, R., Devendorf, L., Wong, R., Akama, Y., Light, A. (2022). [Modes of Uncertainty in HCI](https://www.nowpublishers.com/article/Details/HCI-085). Foundations and Trends in HCI.
 
 - Gevaert, C.M., Carman, M., Rosman, B., Georgiadou, Y. and Soden, R., 2021. [Fairness and accountability of AI in disaster risk management: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S2666389921002257). Patterns, 2(11), p.100363.
 
