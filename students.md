@@ -9,7 +9,7 @@
 
 Students tend to do well here if they arrive with a footing in one of HCI and CSCW, science and technology studies, or environmental and disaster studies, and real curiosity about the others. Some arrive comfortable with qualitative fieldwork and want to learn to build systems; others arrive as builders who want to learn to do fieldwork. Either direction works.
 
-If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>. Co-supervision is common, often with colleagues such as Steve Easterbrook or Fanny Chevalier.
+If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>. Co-supervision is common, often with colleagues such as <a href="https://www.cs.toronto.edu/~sme/">Steve Easterbrook</a>, <a href="https://www.cs.toronto.edu/~fanny/">Fanny Chevalier</a>, and other faculty involved with the <a href="https://climateobservatory.ca">Toronto Climate Observatory</a>.
 
 <!-- TODO(robert): add a sentence on whether you are recruiting PhD students for the coming cycle -->
 
