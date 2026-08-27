@@ -7,7 +7,7 @@
 
 ## Working with me
 
-Students tend to do well here if they arrive with a footing in one of HCI and CSCW, science and technology studies, or environmental and disaster studies, and real curiosity about the others. Some arrive comfortable with qualitative fieldwork and want to learn to build systems; others arrive as builders who want to learn to do fieldwork. Either direction works.
+We are a highly interdisciplinary research group. Students tend to do well if they arrive with a background in one of HCI and CSCW, science and technology studies, or environmental and disaster studies, and genuine interest in the others.
 
 If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>. Co-supervision is common, often with colleagues such as <a href="https://www.cs.toronto.edu/~sme/">Steve Easterbrook</a>, <a href="https://www.cs.toronto.edu/~fanny/">Fanny Chevalier</a>, and other faculty involved with the <a href="https://climateobservatory.ca">Toronto Climate Observatory</a>.
 
