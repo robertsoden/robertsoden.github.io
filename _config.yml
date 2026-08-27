@@ -28,13 +28,16 @@ plugins:
   - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Anything here stays out of _site and is never published.
+exclude:
+  - bin/            # CV data editor + generators (local tooling only)
+  - build/          # generated PTR blocks and overwrite backups
+  - .venv/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -4,40 +4,74 @@
    permalink: /students/
    note: students
 ---
-<p>If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>.</p> 
 
-<p>My lab group studies the information systems we use to make sense of environmental challenges, and in particular disasters and climate change. We publish primarily in HCI venues such as <a href="https://chi2021.acm.org/">CHI</a>, <a href="https://cscw.acm.org/">CSCW</a>, and <a href="https://dis.acm.org/2020/">DIS</a>. In addition to being grounded in technical aspects of computer science, most of our projects also involve some combination of qualitative or ethnographic research, human-centered design, or participatory methodologies. Some also incorporate historical research or critical and speculative design techniques. Background in these methods is helpful though not required, as they can be learned through coursework and supervised research projects. Current and former members of my group include:</p>
+<p>If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>.</p>
 
-**Post-docs**
-- Samar Sabie
-- Austin Lord
+## Current Group Members
+
+**Post-docs & Research Staff**
+- Jen Liu, Postdoctoral Researcher, Computer Science — _Urban Heat and Social Vulnerability_
+- Jennie Phillips, Research Coordinator, Toronto Climate Observatory
+- Majd al-Shihabi, Research Fellow — _Community Participation in Climate Modeling_
 
 **PhD Students**
-- Aarjav Chauhan
-- Shreyasha Paudel
-- Bowen Zhang
-- Taneea Agrawaal
+- Aarjav Chauhan, Computer Science — _Conflict in Online Communities_
+- Shreyasha Paudel, Computer Science — _Disaster Risk Modeling in Nepal_
+- Taneea Agrawaal, Computer Science — _Equitable Climate Informatics_ (co-supervised with Steve Easterbrook)
+- Dylan van Bremer, Computer Science — _Uncertainty in Ontario Flood History_ (co-supervised with Steve Easterbrook)
 
 **Master's Students**
-- Sophia Jit
-- Lilly Flawn
-- Cassie Chanen
+- Rayan Awad Alim, MSc Computer Science — _Human-Centered AI & Climate Migration_ (co-supervised with Daniel Wigdor)
+- Siddharth Dabas — _Indigenous Climate Data Infrastructures_
 
 **Research Assistants**
-- Amanda Leiva
+- Cassie Chanen — _Toronto Climate Observatory_
+- Waanmathi Vishnu — _Sustainable Finance_
+- Ayusha Thapa — _Ontario Flood History_
+- Yash Jain — _Ontario Flood History_
+- Julia Oliveira — _Counter-Mapping Urban Heat_
+- Hugo Fuhrer — _Ontario Flood History_
+- Reyna Wu — _Counter-Mapping Urban Heat_
+- Matthew Varona — _Localizing Climate Data Visualizations_
 
-**Alumni**
-- Rowshni Usha, MScAC 2022
-- Manveer Kalirai, RA, 2021-2022
-- Veneea Veselovsky RA, 2020-2021, now at EPFL
-- Pradnaya Pathak, RA, 2020-2021, now at University of Pennsylvania
-- Aden Fisher, Supervised Research, 2022
-- Zarif Mahmud, Supervised Research, 2021
-- Guiller Cenizal, Supervised Research, 2021, now at Columbia Climate School
+## Alumni
 
+**Post-docs**
+- Rohini Patel, School of the Environment (2023–2024). Next: Postdoc, McMaster University
+- Austin Lord, School of the Environment (2022–2024). Next: Industry research position
+- Samar Sabie, Computer Science (2022–2023). Next: Assistant Professor, University of Toronto
 
-<p>All of our research is conducted in collaboration with important organizations and communities in the field. Examples of past or current partners include the <a href="https://www.hurricanes.gov/">US National Hurricane Center</a>, <a hef="https://mutualaid.nyc/">Mutual Aid NYC</a>, the <a href="http://gfdrr.org">Global Facility for Disaster Reduction and Recovery</a>, and the <a href="http://hotosm.org">Humanitarian OpenStreetMap Team</a>.</p>
+**Research Staff**
+- Sana Bhutani, Research Coordinator, Toronto Climate Observatory (2025)
+- Ichha Kohli, School of the Environment (2023–2025)
+- Tolulope Oshinowo, Computer Science, Visiting Fulbright Student (2024). Next: MSc, Princeton University
+- Kim Slater, School of the Environment (2023–2024). Next: Canada Red Cross
+- Rugare Rukini, Political Economy (2023–2024)
+- Jordan Hogg, Environment and Sustainability (2023–2024)
 
-<p>Over the course of each student's graduate studies, they will be expected to develop and execute their own independent research programs with mentorship from myself and other faculty and the support and collaboration of other students. For an idea of some of the ongoing work that new students can get involved with as they begin to develop their own agenda or to broaden their experience, visit the <a href="/projects/">current projects page</a>.   
-	
-<p><a href="https://web.cs.toronto.edu/">The Department of Computer Science at the University of Toronto</a> is a leading program in the area of human-computer interaction (HCI), with incredible opportunities for student research, mentorship, and development. Recent graduates from our department have gone on to meaningful careers in academia, industry, and beyond. Students will also have the opportunity to get involved with the many other initiatives around campus including the <a href="https://ethics.utoronto.ca/">University of Toronto Center of Ethics</a>, the <a href="https://www.torontosri.ca/">Schwartz Reisman Institute</a>, <a href="https://www.mcluhancentre.ca/">McLuhan Center</a>, and the <a href="https://technosalon.wordpress.com/">Technoscience Salon</a>.	
+**Master's Students**
+- Sophia Jit, Computer Science (2022–2024). Next: PhD, Computer Science, University of Toronto
+- Cassie Chanen, Environment and Sustainability (2022–2023). Next: PhD, University of British Columbia
+- Lilly Flawn, Environment and Sustainability (2022–2023). Next: Industry research position
+- Rowshni Usha, Applied Computing (2022–2023). Next: Industry software development
+- Bowen Zhang, Computer Science (2021–2023). Next: Industry software development
+- Navyata Neeraj, Environment and Sustainability (MES) — _Localizing Global Climate Scenarios_
+
+**Undergraduates**
+- Nadim Mottu, Computer Science (2025) — _Transparency in Climate Finance_
+- Rayan Awad Alim, Computer Science (2024–2025). Next: MSc, Computer Science, University of Toronto
+- Allegra Nesbitt-Jermain, Environmental Studies (2024–2025) — _Transparency in Climate Finance_
+- Elise Corbin, Computer Science (2024)
+- Yan Yui Mork, Ethics Society & Law (2023–2024)
+- Nicole Gordon, Sociology (2023). Next: MA, Toronto Metropolitan University
+- Safa Hussein, Computer Science (2021–2023)
+- Aden Fischer, School of the Environment (2022). Next: MES, University of Toronto
+- Zarif Mahmud, Computer Science (2022). Next: Texas Instruments
+- Amanda Leiva, Psychology and Linguistics (2021–2022). Next: MScAC, University of Toronto
+- Venia Veselovksy, Math and International Relations (2021–2022). Next: MSc, EPFL Switzerland
+- Guiller Cenizal, School of the Environment (2021). Next: MA, Columbia University
+- Justin Smeal, Computer Science (2021)
+- Joyce Zhong — _Flood Risk_
+
+**High School**
+- Pradnaya Pathak, Toronto High School (2020–2021). Next: Undergraduate, University of Pennsylvania

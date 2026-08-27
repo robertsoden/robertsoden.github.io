@@ -1,3 +1,11 @@
 _site
 .sass-cache
 .jekyll-metadata
+.venv
+
+# generated output and local working files
+build/
+_data/.backups/
+_data/qa-notes.yml
+__pycache__/
+*.pyc
