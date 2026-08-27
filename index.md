@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<!-- TODO(robert): add a headshot; consider whether files/berkeley.jpg is still the right header image -->
+
