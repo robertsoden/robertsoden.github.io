@@ -5,7 +5,7 @@
    permalink: /projects/
 ---
 
-All of the work below is part of the [Toronto Climate Observatory](http://climateobservatory.ca) (TCO), which I coordinate. The TCO is a community of interdisciplinary scholars from across all three University of Toronto campuses developing new approaches to climate informatics — the data, methods, and relationships that local efforts to mitigate and adapt to climate change actually require. We work alongside municipal governments, community organizations, and advocacy groups rather than at a distance from them.
+All of the work below is part of the [Toronto Climate Observatory](http://climateobservatory.ca) (TCO), which I lead. The TCO is a community of interdisciplinary scholars from across all three University of Toronto campuses developing new approaches to climate informatics — the data, methods, and relationships that local efforts to mitigate and adapt to climate change actually require. We work alongside municipal governments, community organizations, and advocacy groups rather than at a distance from them.
 
 This is a partial list of current activities. Refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=1vePPCkAAAAJ&hl=en) for a complete list of publications.
 
