@@ -13,8 +13,6 @@ Students tend to do well here if they arrive with a footing in one of HCI and CS
 
 PhD applicants apply through <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. Co-supervision is common, often with colleagues such as Steve Easterbrook or Fanny Chevalier.
 
-If you are applying, a short email describing something specific you would want to work on is far more useful to me than a general expression of interest. Current UofT undergraduates and master's students are welcome to email about research assistantships, which are usually tied to a particular Toronto Climate Observatory project rather than open-ended.
-
 <!-- TODO(robert): add a sentence on whether you are recruiting PhD students for the coming cycle -->
 
 ## Current Group Members
