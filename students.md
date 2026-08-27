@@ -7,6 +7,16 @@
 
 <p>If you are interested in working with me, please apply to one of our graduate programs in <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. If you are already a student at UofT and would like to collaborate, <a href="mailto:soden@cs.toronto.edu">email me</a>.</p>
 
+## Working with me
+
+Students tend to do well here if they arrive with a footing in one of HCI and CSCW, science and technology studies, or environmental and disaster studies, and real curiosity about the others. Some arrive comfortable with qualitative fieldwork and want to learn to build systems; others arrive as builders who want to learn to do fieldwork. Either direction works.
+
+PhD applicants apply through <a href="https://web.cs.toronto.edu/graduate/programs">Computer Science</a> or <a href="https://www.environment.utoronto.ca/graduate">The School of the Environment</a>. Co-supervision is common, often with colleagues such as Steve Easterbrook or Fanny Chevalier.
+
+If you are applying, a short email describing something specific you would want to work on is far more useful to me than a general expression of interest. Current UofT undergraduates and master's students are welcome to email about research assistantships, which are usually tied to a particular Toronto Climate Observatory project rather than open-ended.
+
+<!-- TODO(robert): add a sentence on whether you are recruiting PhD students for the coming cycle -->
+
 ## Current Group Members
 
 **Post-docs & Research Staff**
