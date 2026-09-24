@@ -24,7 +24,7 @@ If you are interested in working with me, please apply to one of our graduate pr
 - Aarjav Chauhan, Computer Science — _Conflict in Online Communities_
 - Shreyasha Paudel, Computer Science — _Disaster Risk Modeling in Nepal_
 - Taneea Agrawaal, Computer Science — _Equitable Climate Informatics_ (co-supervised with Steve Easterbrook)
-- Dylan van Bremer, Computer Science — _Uncertainty in Ontario Flood History_ (co-supervised with Steve Easterbrook)
+- Dylan Van Bramer, Computer Science — _Uncertainty in Ontario Flood History_ (co-supervised with Steve Easterbrook)
 
 **Master's Students**
 - Rayan Awad Alim, MSc Computer Science — _Human-Centered AI & Climate Migration_ (co-supervised with Daniel Wigdor)
@@ -33,12 +33,11 @@ If you are interested in working with me, please apply to one of our graduate pr
 **Research Assistants**
 - Cassie Chanen — _Toronto Climate Observatory_
 - Waanmathi Vishnu — _Sustainable Finance_
-- Ayusha Thapa — _Ontario Flood History_
-- Yash Jain — _Ontario Flood History_
 - Julia Oliveira — _Counter-Mapping Urban Heat_
 - Hugo Fuhrer — _Ontario Flood History_
 - Reyna Wu — _Counter-Mapping Urban Heat_
 - Matthew Varona — _Localizing Climate Data Visualizations_
+- Freddie Stretch — _Bay Street Climate Monitor_
 
 ## Alumni
 
@@ -54,30 +53,33 @@ If you are interested in working with me, please apply to one of our graduate pr
 - Kim Slater, School of the Environment (2023–2024). Next: Canada Red Cross
 - Rugare Rukini, Political Economy (2023–2024)
 - Jordan Hogg, Environment and Sustainability (2023–2024)
+- Lily Sedore — _Toronto Hazard Reconnaissance_. Next: Graduate studies
 
 **Master's Students**
+- Navyata Neeraj, Environment and Sustainability (MES) (2024–2025) — _Localizing Global Climate Scenarios_
 - Sophia Jit, Computer Science (2022–2024). Next: PhD, Computer Science, University of Toronto
 - Cassie Chanen, Environment and Sustainability (2022–2023). Next: PhD, University of British Columbia
 - Lilly Flawn, Environment and Sustainability (2022–2023). Next: Industry research position
 - Rowshni Usha, Applied Computing (2022–2023). Next: Industry software development
 - Bowen Zhang, Computer Science (2021–2023). Next: Industry software development
-- Navyata Neeraj, Environment and Sustainability (MES) — _Localizing Global Climate Scenarios_
 
 **Undergraduates**
 - Nadim Mottu, Computer Science (2025) — _Transparency in Climate Finance_
 - Rayan Awad Alim, Computer Science (2024–2025). Next: MSc, Computer Science, University of Toronto
-- Allegra Nesbitt-Jermain, Environmental Studies (2024–2025) — _Transparency in Climate Finance_
+- Allegra Nesbitt-Jerman, Peace, Conflict, and Justice (2024–2025) — _Transparency in Climate Finance_
 - Elise Corbin, Computer Science (2024)
 - Yan Yui Mork, Ethics Society & Law (2023–2024)
 - Nicole Gordon, Sociology (2023). Next: MA, Toronto Metropolitan University
 - Safa Hussein, Computer Science (2021–2023)
-- Aden Fischer, School of the Environment (2022). Next: MES, University of Toronto
+- Aden Fisher, School of the Environment (2022). Next: MES, University of Toronto
 - Zarif Mahmud, Computer Science (2022). Next: Texas Instruments
 - Amanda Leiva, Psychology and Linguistics (2021–2022). Next: MScAC, University of Toronto
 - Venia Veselovksy, Math and International Relations (2021–2022). Next: MSc, EPFL Switzerland
 - Guiller Cenizal, School of the Environment (2021). Next: MA, Columbia University
 - Justin Smeal, Computer Science (2021)
 - Joyce Zhong — _Flood Risk_
+- Ayusha Thapa, Computer Science — _Ontario Flood History_
+- Yash Jain — _Ontario Flood History_
 
 **High School**
 - Pradnaya Pathak, Toronto High School (2020–2021). Next: Undergraduate, University of Pennsylvania
